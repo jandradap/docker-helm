@@ -10,3 +10,4 @@ Alpine Helm 3 image with helm-schema-gen plugin.
 **Pre-installed plugins:**
 
 - [helm-schema-gen](https://github.com/karuppiah7890/helm-schema-gen)
+
